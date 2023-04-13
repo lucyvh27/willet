@@ -151,8 +151,6 @@ vm = new Vue({
       Ingest: [],
       Provision: [],
       Comment: [],
-    },
-    events2: {
       Et: [],
       Md: [],
       Cv: [],

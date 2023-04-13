@@ -152,7 +152,7 @@ vm = new Vue({
       Provision: [],
       Comment: [],
     },
-    prey: {
+    events2: {
       Et: [],
       Md: [],
       Cv: [],

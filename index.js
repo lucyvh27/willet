@@ -148,7 +148,7 @@ vm = new Vue({
       Other: [],
     },
     events: {
-      Ingest: [],
+      NotIngest: [],
       Provision: [],
       Comment: [],
       Et: [],

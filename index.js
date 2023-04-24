@@ -148,9 +148,7 @@ vm = new Vue({
       Other: [],
     },
     events: {
-      NotIngest: [],
       Provision: [],
-      Comment: [],
       Et: [],
       Md: [],
       Cv: [],
@@ -160,6 +158,7 @@ vm = new Vue({
       Dv: [],
       Pp: [],
       UNK: [],
+      Comment: [],
     },
     toggles: {
       'Timer': [],

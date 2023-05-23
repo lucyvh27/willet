@@ -158,6 +158,11 @@ vm = new Vue({
       Dv: [],
       Pp: [],
       UNK: [],
+      SAND: [],
+      RUTU: [],
+      WILL: [],
+      Gull: [],
+      Other: [],
       Comment: [],
     },
     toggles: {

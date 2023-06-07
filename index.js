@@ -160,6 +160,7 @@ vm = new Vue({
       UNK: [],
       SAND: [],
       RUTU: [],
+      Gull: [],
       Comment: [],
     },
     toggles: {

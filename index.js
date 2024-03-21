@@ -150,6 +150,7 @@ vm = new Vue({
     events: {
       Provision: [],
       Et: [],
+      Eggs: [],
       Md: [],
       Cv: [],
       Mm: [],

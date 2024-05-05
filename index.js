@@ -152,6 +152,7 @@ vm = new Vue({
       Peck: [],
       Consume: [],
       OTHER: [],
+      Preening: [],
       SAND: [],
       DUNL: [],
       LAGU: [],
@@ -161,6 +162,7 @@ vm = new Vue({
       AMOY: [],
       PIPL: [],
       People: [],
+      Vehicles: [],
       Comment: [],
     },
     toggles: {
@@ -193,7 +195,7 @@ vm = new Vue({
       const f = new File([csv], {type: 'text/csv'})
       const link = document.createElement('a')
       link.href = URL.createObjectURL(f)
-      link.download = 'amoyfeedingtimedata.csv'
+      link.download = 'willetfeedingtimedata.csv'
       link.click()
 
       // console.log(csv)
